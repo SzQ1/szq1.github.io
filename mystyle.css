@@ -1,12 +1,11 @@
 body {
 <style>
 body {
-  background-image: url('https://github.com/SzQ1/szq1.github.io/raw/main/background1.png');
+  background-image: url('background1.png');
   background-color: #cccccc;
 }
 </style>
 }
-
 h1 {
   color: navy;
   margin-left: 20px;
