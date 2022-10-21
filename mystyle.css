@@ -1,8 +1,8 @@
 body {
 <style>
 body {
-  background-image: url('background1.png');
-  background-color: #cccccc;
+
+  background-image: conic-gradient(red, yellow, green);
 }
 </style>
 }
