@@ -1,8 +1,8 @@
 body {
 <style>
 body {
-
-  background-image: conic-gradient(red, yellow, green);
+  background-image: url('https://raw.githubusercontent.com/SzQ1/szq1.github.io/main/background1.png');
+  background-color: #cccccc;
 }
 </style>
 }
@@ -10,5 +10,3 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
-
-<p>I'm hosted with GitHub Pag.</p>
